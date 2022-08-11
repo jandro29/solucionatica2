@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+/* Font*/
+
+@font-face {
+  font-family: PoppinsBlack;
+  src: url("assets/font/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: PoppinsBlackItalic;
+  src: url("assets/font/Poppins-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsBlod;
+  src: url("assets/font/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: PoppinsBoldItalic;
+  src: url("assets/font/Poppins-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsExtraBold;
+  src: url("assets/font/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: PoppinsExtraBoldItalic;
+  src: url("assets/font/Poppins-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsExtraLight;
+  src: url("assets/font/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: PoppinsExtraLightItalic;
+  src: url("assets/font/Poppins-ExtraLightItalic.ttf");
+}
+
+
+@font-face {
+  font-family: PoppinsItalic;
+  src: url("assets/font/Poppins-Italic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsLight;
+  src: url("assets/font/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: PoppinsLightItalic;
+  src: url("assets/font/Poppins-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsMedium;
+  src: url("assets/font/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: PoppinsMediumItalic;
+  src: url("assets/font/Poppins-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsRegular;
+  src: url("assets/font/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: PoppinsSemiBold;
+  src: url("assets/font/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: PoppinsSemiBoldItalic;
+  src: url("assets/font/Poppins-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: PoppinsThin;
+  src: url("assets/font/Poppins-Thin.ttf");
+}
+
+@font-face {
+  font-family: PoppinsThinItalic;
+  src: url("assets/font/Poppins-ThinItalic.ttf");
+}
+
+.poppbla {
+  font-family: PoppinsBlack;
+}
+
+.poppblait {
+  font-family: PoppinsBlackItalic;
+}
+
+.poppbold {
+  font-family: PoppinsBold;
+}
+
+
+.poppboldit {
+  font-family: PoppinsBoldItalic;
+}
+
+.poppextbold {
+  font-family: PoppinsExtraBold;
+}
+
+.poppextboldit {
+  font-family: PoppinsExtraBoldItalic;
+}
+
+.poppextlight {
+  font-family: PoppinsExtraLight;
+}
+
+.poppextlightit {
+  font-family: PoppinsExtraLightItalic;
+}
+
+.popplight {
+  font-family: PoppinsLight;
+}
+.popplightit {
+  font-family: PoppinsLightItalic;
+}
+
+.poppmedium {
+  font-family: PoppinsMedium;
+}
+
+.poppmediumit {
+  font-family: PoppinsMediumItalic;
+}
+
+.poppregular {
+  font-family: PoppinsRegular;
+}
+
+.poppsemibold {
+  font-family: PoppinsSemiBold;
+}
+
+.poppsemiboldit {
+  font-family: PoppinsSemiBoldItalic;
+}
+
+.poppthin {
+  font-family: PoppinsThin;
+}
+
+.poppthinit {
+  font-family: PoppinsThinItalic;
+}

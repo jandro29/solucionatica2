@@ -1,0 +1,24 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+#inicio{
+  scroll-margin-top: 300px;
+}
+
+#quehacemos{
+  scroll-margin-top: 150px;
+}
+
+#comolohacemos{
+  scroll-margin-top: 270px;
+}
+
+#servicios{
+  scroll-margin-top: 140px;
+}
+
+
+#contacto{
+  scroll-margin-top: 70px;
+}
